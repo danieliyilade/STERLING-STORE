@@ -18,19 +18,31 @@ An end-to-end business intelligence solution was delivered to the business. Here
 
 # AIMS AND OBJECTVES
 ▪ To develop a business intelligence solution to track sales performance.
+
 ▪ To derive sales insight to help the organization for the coming years.
+
 ▪ Sales performance across Regions and countries of operation.
+
 ▪ To show top performing customers in the organization.
+
 ▪ To show top Product brand selling.
-▪ To show the top occupation buying products
+
+▪ To show the top occupation buying products.
 
 # BUSINESS INSIGHT
 ▪ There was an over 20% increase in sales after the first two months of the year.
+
 ▪ The month of November has the highest sales of $76k in the year.
+
 ▪ Furniture products have the highest sales of over 35%, followed by technology with 34%.
+
 ▪ The eastern region of the country made 42% of the sales and 35% of the profit for the company.
+
 ▪ The profit margin of the business at the end of the year increased to 13.10%.
+
 ▪ Customers preferred using the standard class ship mode to ship their products.
+
 ▪ The corporate segment made the highest purchase (48%), followed by the consumer (33%).
+
 ▪ Christopher Martinez is the most profitable customer of the year.
 
