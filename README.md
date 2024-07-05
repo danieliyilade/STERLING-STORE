@@ -46,3 +46,15 @@ An end-to-end business intelligence solution was delivered to the business. Here
 
 ▪ Christopher Martinez is the most profitable customer of the year.
 
+# RECOMMENDATION
+
+▪ Discounts should be given to customers with the highest purchasing power.
+
+▪ More marketing advertisements for the technology products will increase sales and profit.
+
+▪ More attention should be given to October because of the heavy decline in sales.
+
+▪ Prioritize corporate customers for more sales.
+
+▪ A good standard of ship mode should be maintained.
+
