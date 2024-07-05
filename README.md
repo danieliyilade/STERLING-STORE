@@ -19,7 +19,7 @@ An end-to-end business intelligence solution was delivered to the business. Here
 # AIMS AND OBJECTVES
 ▪ To develop a business intelligence solution to track sales performance.
 
-▪ To derive sales insight to help the organization for the coming years.
+▪ To derive sales insight to help the organization in the coming years.
 
 ▪ Sales performance across Regions and countries of operation.
 
